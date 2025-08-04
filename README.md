@@ -75,3 +75,9 @@ Command-line terminal or optional GUI for testing
 Internet/network access for local or remote testing
 
 This project serves as a foundation for more advanced systems like real-time collaborative apps, multiplayer games, and messaging platforms. It helps in understanding how scalable systems manage concurrency and multiple user sessions efficiently.
+
+#OUTPUT
+
+<img width="372" height="200" alt="Image" src="https://github.com/user-attachments/assets/1c67bcf6-4840-49fa-a585-82265cf25d0b" />
+
+<img width="339" height="159" alt="Image" src="https://github.com/user-attachments/assets/a72b8fc6-a8f1-4988-b62e-3e3ade26ccb4" />
